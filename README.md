@@ -1,2 +1,2 @@
 # ChronoKaiku
-Solo game production called ChronoKaiju
+Solo game development called ChronoKaiju: The Heir of Time
